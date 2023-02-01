@@ -1,0 +1,28 @@
+@font-face {
+	src: url(OpenSans-Regular.ttf);
+	font-family:  'Open Sans', sans-serif;
+	font-weight: 400;
+
+}
+
+@font-face {
+	src: url(OpenSans-SemiBold.ttf);
+	font-family:  'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+@font-face {
+	src: url(OpenSans-Bold.ttf);
+	font-family:  'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+@font-face {
+	src: url(Socialico.ttf);
+	font-family: 'Socialico';
+}
+
+@font-face {
+	font-family: 'Russo One', sans-serif;
+	src: url(RussoOne-Regular.ttf);
+}
